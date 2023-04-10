@@ -59,7 +59,7 @@ const Login = () => {
                                         <div className="card-body p-md-5 mx-md-4">
                                             <div className="text-center">
                                                 <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp" className="card-img" alt="logo" />
-                                                <h4 className="mt-1 mb-5 pb-1">We are The Lotus Team</h4>
+                                                <h4 className="mt-1 mb-5 pb-1">We are The  AUDE SAPERE Team</h4>
                                             </div>
                                             <p className="d-flex justify-content-start">Please login to your account</p>
                                             <form onSubmit={handleSubmit}>
@@ -89,10 +89,8 @@ const Login = () => {
                                     </div>
                                     <div className="col-lg-6 d-flex align-items-center gradient-custom-2">
                                         <div className="text-white px-3 py-4 p-md-5 mx-md-4">
-                                            <h4 className="mb-4">We are more than just a company</h4>
-                                            <p className="small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                            <h4 className="mb-4">Join Our Team</h4>
+                                            <p className="small mb-0">AUDE SAPERE is a multi-specialty group of experienced homoeopathic doctors founded by Dr. Anoop Agrahari, dedicated to serving humanity. Our team comprises the best homoeopathic doctors in Uttar Pradesh and beyond, offering consultations both online and offline. We also extend our services to remote areas through assistant doctors. Our approach to treatment is based on strict homoeopathic principles, with a focus on curing the patient rather than just testing symptoms. We are committed to alleviating the suffering, anxiety, and agony of our patients and their families. Choose AUDE SAPERE for expert homoeopathic care.</p>
                                         </div>
                                     </div>
                                 </div>

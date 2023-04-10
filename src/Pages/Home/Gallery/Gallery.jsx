@@ -15,7 +15,7 @@ const Gallery = () => {
                 <Row>
                     <Col sm={12} className="text-center">
                         <div className="section-title">
-                            <h1>Our Gallery</h1>
+                            <h1> Disease the End Result</h1>
                         </div>
                     </Col>
                 </Row>

@@ -1,23 +1,23 @@
 export const FakeBlog = [
     {
         "id": "001",
-        "title": "Maximize Your 2019 Dental Insurance with lots of Benefits",
-        "span1": "Post by: Salman",
-        "span2": "12 Oct, 2019",
-        "img": "https://i.ibb.co/1LnXPFk/blog1.jpg"
+        "title": "Nobel Prize-Winners Who Advocated for Homeopathic Medicine by DANA ULLMAN, MPH, CCH",
+        "span1": "Post by: Dr,Anoop",
+        "span2": "19 March, 2023",
+        "img": "https://i.ibb.co/rfKrYjd/17416106-802.jpg"
     },
     {
         "id": "002",
-        "title": "Are Your Teeth Making You Old? Are You Surprised! Hope you'r Shocked",
+        "title": "Tremendous Popularity for Homeopathy amongst French Oncologists and MDs for Cancer Treatment",
         "span1": "Post by: admin",
-        "span2": "14 Oct, 2019",
-        "img": "https://i.ibb.co/9hNpRkD/blog2.jpg"
+        "span2": "3 March, 2023",
+        "img": "https://i.ibb.co/Z1jvr7v/0x0.jpg"
     },
     {
         "id": "003",
-        "title": "Dental Implants: The Next Best Thing to Get Natural Teeth",
-        "span1": "Post by: Salman",
-        "span2": "10 Jan, 2020",
-        "img": "https://donto-react.netlify.app/static/media/blog3.4104f17c.jpg"
+        "title": "Homeopathy: A Healthier Way to Treat Depression?",
+        "span1": "Post by: Dr.Ajay",
+        "span2": "28 Feb, 2023",
+        "img": "https://i.ibb.co/nPqvT0V/d62cbe.webp"
     }
 ]

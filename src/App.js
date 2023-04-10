@@ -11,6 +11,7 @@ import Home from './Pages/Home/Home/Home.jsx';
 import Login from './Pages/Login/Login';
 import NotFound from './Pages/NotFound/NotFound';
 import Service from './Pages/Services/Service/Service';
+import Thank from './Pages/Home/Appoinment/Thank';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path='/approved' element={<Approved />} />
           <Route path='/login' element={<Login />} />
           <Route path='*' element={<NotFound />} />
+          <Route path='/Thank' element={<Thank />} />
         </Routes>
         <Footer />
       </Router>

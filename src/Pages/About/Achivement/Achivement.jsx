@@ -15,10 +15,11 @@ const Achivement = () => {
                             <h1>Our Achievement</h1>
                         </div>
                         <div className="achivement-txt">
-                            <p className="w-75">Smiling comes naturally to Dr. Harrie, author of ‘Donto’. He has embraced Cosmetic Dentistry and has redesigned the smiles for thev thousands of patients.</p>
+                            <p className="w-75">At AUDE SAPERE, we believe that disease is not just an isolated physical condition, but rather a manifestation of an underlying inner disturbance. We view symptoms as a message from the body, indicating that there is an imbalance that needs to be addressed.
+                                Unlike conventional medicine, which often focuses on suppressing symptoms with medication, we strive to identify and treat the root cause of the illness. By addressing the underlying disturbance, we can provide a permanent solution that promotes long-term healing and wellbeing.</p>
                             <div className="more-tool">
-                            <Link to="/login"><button  className="theme-btn btn-fill">Appoinment</button></Link>
-                            <a href="https://www.youtube.com/watch?v=7HhdN9_MgE8" className="watchBtn"><button className="theme-btn btn-unfill"><FontAwesomeIcon className="play-btn" icon={faPlayCircle} /><span>Watch Vedio</span></button></a>
+                                <Link to="/login"><button className="theme-btn btn-fill">Appoinment</button></Link>
+                                <a href="https://www.youtube.com/@audesapere-op6zp/videos" target="_blank" className="watchBtn"><button className="theme-btn btn-unfill"><FontAwesomeIcon className="play-btn" icon={faPlayCircle} /><span>Watch Vedio</span></button></a>
                             </div>
                         </div>
                     </Col>
@@ -32,8 +33,8 @@ const Achivement = () => {
                             </Col>
                             <Col sm={6} className="text-center">
                                 <div className="single-funfact">
-                                    <span>75 +</span>
-                                    <p>Dentist</p>
+                                    <span>5+</span>
+                                    <p>Homeopathist</p>
                                 </div>
                             </Col>
                             <Col sm={6} className="text-center">
@@ -44,7 +45,7 @@ const Achivement = () => {
                             </Col>
                             <Col sm={6} className="text-center">
                                 <div className="single-funfact">
-                                    <span>28 +</span>
+                                    <span>2+</span>
                                     <p>Branch</p>
                                 </div>
                             </Col>

@@ -29,14 +29,14 @@ const Testimonial = () => {
                             <div className="client-img">
                                 <img src={client} alt="" />
                             </div>
-                            <h3 className="mt-4">Aliceano Colby</h3>
-                            <span>CEO of Prime IT</span>
+                            <h3 className="mt-4">Yogesh Singh</h3>
+                            <span>Software Engineer</span>
                         </div>
                     </Col>
                     <Col md={6} lg={8} sm={12}>
                         <div className="review-item text-start" data-aos="zoom-out">
                             <h5>Awesome Work</h5>
-                            <p>“They really took my individual case to heart. Their team is very helpful. They all work together in an impressive way to make sure that my needs were met and I walked out pain free.”</p>
+                            <p>“I have been struggling with chronic migraines for years, trying various medications and treatments with little success. But since I started seeing a homeopath and taking the remedies prescribed to me, my migraines have decreased in frequency and intensity. Not only that, but I also feel more balanced and energized overall. Homeopathy has truly been a game-changer for me, and I highly recommend it to anyone seeking a natural, holistic approach to healthcare.”</p>
                         </div>
                     </Col>
 

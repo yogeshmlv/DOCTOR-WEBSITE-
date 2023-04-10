@@ -9,7 +9,7 @@
 }
 
 .head-bg {
-    background-color: #004caa;
+    background-color:#fc5185;
 }
 
 .list-item {
@@ -92,3 +92,16 @@
         margin: 15px auto;
     }
 }
+.Header-logo{
+    height: 60px;
+    width: 200px;
+}
+.header{
+    text-decoration: none;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+  }
+  

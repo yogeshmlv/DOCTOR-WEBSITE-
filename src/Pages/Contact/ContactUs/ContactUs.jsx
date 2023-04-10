@@ -16,8 +16,8 @@ const ContactUs = () => {
                             </div>
                             <div className="c-info text-start">
                                 <h4>Address</h4>
-                                <p>55 West, 33rd Street</p>
-                                <p>5th Floor, New York</p>
+                                <p>Ward No. 10,Main Market </p>
+                                <p>Peppeganj,Gorakhpur</p>
                             </div>
                         </div>
                     </Col>
@@ -28,8 +28,8 @@ const ContactUs = () => {
                             </div>
                             <div className="c-info text-start">
                                 <h4>Email</h4>
-                                <p>info@dentzone.com</p>
-                                <p>email@gmail.com</p>
+
+                                <a href="mailto:audesaperemdms@gmail.com" rel="noreferrer" target="_blank"> <p>audesaperemdms@gmail.com</p></a>
                             </div>
                         </div>
                     </Col>
@@ -40,8 +40,8 @@ const ContactUs = () => {
                             </div>
                             <div className="c-info text-start">
                                 <h4>Phone</h4>
-                                <p>(888) 4421-1238-32</p>
-                                <p>(888) 838-1238-645</p>
+                                <p>(+91) 9598593661</p>
+
                             </div>
                         </div>
                     </Col>

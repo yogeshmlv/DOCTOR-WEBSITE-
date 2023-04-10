@@ -21,7 +21,6 @@ const LatestBlog = () => {
                         ))
                     }
                 </Row>
-
             </Container>
         </section>
 

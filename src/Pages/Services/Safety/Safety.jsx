@@ -13,24 +13,24 @@ const Safety = () => {
                         <div className="section-title">
                             <h1>Safety First</h1>
                         </div>
-                        <p className="w-50 m-auto content-inner">Since 1998, Donto Dentistry has been proud to combine modern techniques and high-tech equipment. Dr. John Dae, Micha and his team deliver a personalized and comfortable dental care experience unlike any other Mason dentist.</p>
+                        <p className="w-50 m-auto content-inner">At AUDE SAPERE, we prioritize safety above all else in our approach to homeopathy. We understand that many patients come to us seeking natural and non-invasive alternatives to traditional medical treatments, and we take our responsibility to provide safe and effective remedies very seriously.</p>
                     </Col>
                 </Row>
                 <Row>
                     <Col md={6} lg={6}>
                         <div className="vedio-item">
                             <div className="vedio-bg-img">
-                                <a href="https://youtu.be/IVqKLxp6R4U"><FontAwesomeIcon icon={faPlayCircle} className="vedio-play-btn" /></a>
+                                <a href="https://www.youtube.com/watch?v=cdYSX7JxO6Q&t=767s"><FontAwesomeIcon icon={faPlayCircle} className="vedio-play-btn" /></a>
                             </div>
-                            <h5>The Importance Of Complete Dentistry for your Health</h5>
+                            <h5>The Importance Of Complete Process</h5>
                         </div>
                     </Col>
                     <Col md={6} lg={6}>
                         <div className="vedio-item">
                             <div className="vedio-bg-img img2">
-                                <a href="https://youtu.be/0s35QCFg7p0"><FontAwesomeIcon icon={faPlayCircle} className="vedio-play-btn" /></a>
+                                <a href="https://www.youtube.com/watch?v=cdYSX7JxO6Q&t=767s"><FontAwesomeIcon icon={faPlayCircle} className="vedio-play-btn" /></a>
                             </div>
-                            <h5>Safety First with CT Scans!</h5>
+                            <h5>Safety First</h5>
                         </div>
                     </Col>
                 </Row>

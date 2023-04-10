@@ -38,14 +38,14 @@ const Footer = () => {
                     <Col xs={6} md={3}>
                         <div className="single-footer-widget">
                             <div className="widget-title">
-                                <h2>Services</h2>
+                                <h2>Centers</h2>
                             </div>
                             <div className="widget-content">
-                                <NavLink className="footer-link">Dental Dictionary</NavLink>
-                                <NavLink className="footer-link">Dental Sealands</NavLink>
-                                <NavLink className="footer-link">Dental Implants</NavLink>
-                                <NavLink className="footer-link">General Dentistry</NavLink>
-                                <NavLink className="footer-link">Sedation Dentistry</NavLink>
+                                <NavLink className="footer-link"> PEPPEGANJ(Main Branch)</NavLink>
+                                <NavLink className="footer-link"> GORAKHPUR</NavLink>
+                                <NavLink className="footer-link"> ALLAHABAD</NavLink>
+                                <NavLink className="footer-link"> KANPUR</NavLink>
+                                <NavLink className="footer-link"> SAHARANPUR</NavLink>
                             </div>
                         </div>
                     </Col>
@@ -55,18 +55,19 @@ const Footer = () => {
                                 <h2>Our Address</h2>
                             </div>
                             <div className="widget-content">
-                                <NavLink className="footer-link">Datobbo Dentistry 5212 Cedar</NavLink>
-                                <NavLink className="footer-link">Village Dr Mason, NY.</NavLink>
-                                <NavLink className="footer-link">Phone:+1 3500 5867 340</NavLink>
-                                <NavLink className="footer-link">Email:yourdomain@gmail.com</NavLink>
-                                <NavLink className="footer-link">Fax:+1 675 5867 340</NavLink>
+                                <NavLink className="footer-link">Ward No. 10, Main Market</NavLink>
+                                <NavLink className="footer-link">Peppeganj, Gorakhpur</NavLink>
+                                <NavLink className="footer-link">Phone: +91 9598593661</NavLink>
+                                <NavLink className="footer-link">Email:audesaperemdms@gmail.com</NavLink>
+                                <NavLink className="footer-link">Whatsapp : 9598593661</NavLink>
                             </div>
                         </div>
                     </Col>
                 </Row>
             </Container>
             <div className="footer-copy-right text-center text-white">
-                <p className='mb-0'>&copy; 2022 - <span className="developer">Saiful Emon</span> | All Rights Reserved</p>
+                <p className='mb-0'> Copyright &copy; 2023 - <span className="developer">AUDE SAPERE</span> | All Rights Reserved</p>
+                <p>Devloped By <span  className="developer">Yogesh Singh</span></p>
             </div>
         </div>
     );

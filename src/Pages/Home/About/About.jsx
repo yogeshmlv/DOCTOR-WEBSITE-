@@ -28,7 +28,7 @@ const About = () => {
                         <div className="about-right mt-5 mt-lg-0">
                             <div className="about-content text-start" data-aos="zoom-in">
                                 <h1>Welcome to a Family</h1>
-                                <p>Welcome to Datobbo Dental represents everything going to dentist necessary. We have upgraded your dreaded dentist appointment and transformed it into a relaxing. Consectetur adipisicing elit. Quod ea, consequuntur itaque enim et expedita, optio omnis ipsa magni, perspiciatis totam ipsum! Voluptatibus, neque at.</p>
+                                <p>AUDE SAPERE is a multi-specialty group of experienced homoeopathic doctors founded by Dr. Anoop Agrahari, dedicated to serving humanity. Our team comprises the best homoeopathic doctors in Uttar Pradesh and beyond, offering consultations both online and offline. We also extend our services to remote areas through assistant doctors. Our approach to treatment is based on strict homoeopathic principles, with a focus on curing the patient rather than just testing symptoms. We are committed to alleviating the suffering, anxiety, and agony of our patients and their families. Choose AUDE SAPERE for expert homoeopathic care.</p>
                                 <a href='/page/about'>About Us</a>
                             </div>
                             <div className="fun-fact-sec" data-aos="fade-right">
@@ -38,17 +38,17 @@ const About = () => {
                                     <p>Happy Patients</p>
                                 </div>
                                 <div className="single-fun sp-fun" data-aos="fade-right">
-                                    <span>88</span>
+                                    <span>10</span>
                                     <span>+</span>
                                     <p>Qualified Doctors</p>
                                 </div>
                                 <div className="single-fun" data-aos="fade-left">
-                                    <span>25</span>
+                                    <span>11</span>
                                     <span>+</span>
                                     <p>Years Experience</p>
                                 </div>
                                 <div className="single-fun sp-fun" data-aos="fade-left">
-                                    <span>50</span>
+                                    <span>5</span>
                                     <span>+</span>
                                     <p>Dental Awards</p>
                                 </div>
